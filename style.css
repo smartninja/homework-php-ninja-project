@@ -1,0 +1,19 @@
+/*
+    Theme Name: Ninja Lajf
+    Theme URI: https://ninja.com
+    Author: Jaz
+    Author URI: https://mojastran.si
+    Description: Življenje in skili mlade ninje
+    Version: 1.0
+    Tags: ninja, skili, responsive, learning
+*/
+
+/* CSS */
+h1 {
+    font-size: 50px;
+}
+
+.vsebina {
+    color: red;
+    font-size: 16px;
+}
